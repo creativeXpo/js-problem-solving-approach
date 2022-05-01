@@ -1,1 +1,8 @@
-# js-problem-solving-approach
+# 01. Convert Celsius to Fahrenheit
+
+function convertToF(celsius) {
+  let fahrenheit;
+  return fahrenheit;
+}
+
+convertToF(30);
